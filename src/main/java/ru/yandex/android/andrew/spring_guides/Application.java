@@ -1,4 +1,4 @@
-package hello;
+package ru.yandex.android.andrew.spring_guides;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

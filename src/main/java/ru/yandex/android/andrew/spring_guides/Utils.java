@@ -1,4 +1,4 @@
-package hello;
+package ru.yandex.android.andrew.spring_guides;
 
 /**
  * Created by Andrew on 07.02.2016.
